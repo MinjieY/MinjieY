@@ -1,19 +1,12 @@
-### ✨About ✨
-A master student .
-<br>
-📩: minjie.ying@outlook.com
-
-<br>
-
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Minjie&theme=dark" /> </div>
 
 
 <span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
 
-# 👋 Hi, I'm [你的名字]!
-
-🌟 Passionate about [关键词1] | [关键词2] | [关键词3]  
-📍 Based in [地点] | 💼 Currently @ [公司/学校]
+# 👋 Hi, I'm Minjie Ying!
+👩 A master student .
+🌟 Passionate about  
+📍 Based in Chongqing now | 💼 Currently stu in @ CQU
 
 ---
 
@@ -38,11 +31,10 @@ A master student .
 ---
 
 ## 📫 How to reach me:
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:你的邮箱)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](你的LinkedIn链接)
-[![Blog](https://img.shields.io/badge/-Blog-FFA500?style=flat&logo=RSS)](你的博客或网站)
+[![Email📩](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:minjie.ying@outlook.com)
+[![Blog](https://img.shields.io/badge/-Blog-FFA500?style=flat&logo=RSS)]([你的博客或网站](https://github.com/MinjieY))
 
 ---
 
-_“喜欢就去做”_
+_“Simple is powerful.”_
 
