@@ -30,7 +30,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinjieY&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=py,java,c++,c,html,css,md,matlab&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=py,sklearn,java,cpp,c,git,r,linux,md,matlab,html,css&theme=light" />
 </p>
  
 <!-- https://github.com/badges/shields -->
