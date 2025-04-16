@@ -1,5 +1,5 @@
 # 👋 Fancy seeing you here!
-👩 I am Minjie . A master student(2024-2027) now in Chongqing university .
+👩 I am Minjie . A master student now in Chongqing university (2024-2027) .
 <br>
 🌟 Passionate about data science.
 <br>
