@@ -1,7 +1,6 @@
 # ✨About 1mage ✨
-A master student in CQU.
+A master student .
 <br>
-If you are insterested in data science , don't hesitate to explore with me pls!
-<br>
-mail: minjie.ying@outlook.com
+📩: minjie.ying@outlook.com
 
+<br>
