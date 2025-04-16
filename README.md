@@ -10,11 +10,16 @@
 <!-- 📊 GitHub Stats -->
 
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinjieY&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MinjieY&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" width="450" height="200" />
+<!-- https://github.com/anuraghazra/github-readme-stats 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinjieY&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />-->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinjieY&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" width="360" height="220" />
 
+  <!-- 右图：个人贡献图（占 440px） -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MinjieY&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" width="440" height="220" />
+
+<!-- https://github.com/anuraghazra/github-readme-stats 
+  <img src="https://github-readme-stats.vercel.app/api?username=MinjieY&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" width="450" height="200" />
+-->
  <br/>
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=MinjieY&theme=github-compact&hide_border=true&area=true">
