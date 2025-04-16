@@ -7,9 +7,6 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-<!-- 📊 GitHub Stats -->
-
-
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinjieY&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 
@@ -37,7 +34,7 @@
 -->
 
  
-## 📫 How to reach me:
+## 📫 Reach me:
 <p>
 Mainly upload some assignments, is learning to explore, if there are data mining, search advertising recommendation algorithm type learning exchange, welcome to learn together!
 </p>
