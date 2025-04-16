@@ -1,5 +1,4 @@
 # 👋 Fancy seeing you here!
-<span style="font-size:0;color:transparent">应敏婕</span>
 👩 I am Minjie . A master student now in Chongqing university .
 <br>
 🌟 Passionate about data science.
@@ -44,6 +43,7 @@ Mainly upload some assignments, is learning to explore, if there are data mining
 </p>
 
 -> [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:minjie.ying@outlook.com)
+<span style="font-size:0;color:transparent">应敏婕 minjie ying</span>
 
 
 
