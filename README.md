@@ -25,7 +25,7 @@
 </p>
  
 <!-- https://github.com/badges/shields -->
-<img src="https://komarev.com/ghpvc/?username={MinjieY}&abbreviated=true" />
+<img src="https://komarev.com/ghpvc/?username=MinjieY&abbreviated=true" />
 
 <!--
 ## 🚀 Projects
