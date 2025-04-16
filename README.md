@@ -43,7 +43,7 @@ Mainly upload some assignments, is learning to explore, if there are data mining
 </p>
 
 -> [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:minjie.ying@outlook.com)
-<span style="display:none">应敏婕 minjie ying</span>
+<span style="display:none">This is the GitHub profile of 应敏婕, showcasing open source projects, contributions, and coding activity.</span>
 
 
 
