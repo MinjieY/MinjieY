@@ -1,8 +1,3 @@
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Minjie&theme=dark" /> </div>
-
-
-<span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
-
 # 👋 Hi, I'm Minjie Ying!
 👩 A master student .
 🌟 Passionate about  
@@ -11,6 +6,8 @@
 ---
 
 ## 🛠️ Tech Stack
+<span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
+
 ![Languages](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Frameworks](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Tools](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -19,6 +16,7 @@
 ---
 
 ## 📈 GitHub Stats
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Minjie&theme=dark" /> </div>
 ![你的GitHub数据图](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=tokyonight)
 ![语言使用图](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=tokyonight)
 
