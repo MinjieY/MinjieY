@@ -24,8 +24,7 @@
 <img align="center" src="https://skillicons.dev/icons?i=py,sklearn,java,cpp,c,git,r,linux,md,matlab,html,css&theme=light" />
 </p>
  
-<!-- https://github.com/badges/shields -->
-<img src="https://komarev.com/ghpvc/?username=MinjieY&abbreviated=true" />
+
 
 <!--
 ## 🚀 Projects
@@ -43,7 +42,8 @@ Mostly upload assignments and love exploring new topics. If you're interested in
 
 <br>
 <span style="display:none">__This is the GitHub profile of minjie ying, showcasing open source projects, contributions, and coding activity__.</span>
-
+<!-- https://github.com/badges/shields -->
+<img src="https://komarev.com/ghpvc/?username=MinjieY&abbreviated=true" />
 
 
 
