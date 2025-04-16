@@ -35,9 +35,10 @@
 - [🔧 项目A名字](项目A链接) - 简短描述
 - [📊 项目B名字](项目B链接) - 简短描述
 -->
-
-_“Mainly upload some assignments, is learning to explore, if there are data mining, search advertising recommendation algorithm type learning exchange, welcome to learn together!”_
-
+<p>
+Mainly upload some assignments, is learning to explore, if there are data mining, search advertising recommendation algorithm type learning exchange, welcome to learn together!
+</p>
+ 
 ## 📫 How to reach me:
 [![Email📩](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:minjie.ying@outlook.com)
 
