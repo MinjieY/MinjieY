@@ -9,6 +9,16 @@
 
  
 <p align="center">
+<!-- 📊 GitHub Stats -->
+<div align="center">
+
+  <!-- Most Used Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinjieY&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6"/>
+
+  <!-- GitHub Profile Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MinjieY&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true"/>
+
+</div>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinjieY&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
