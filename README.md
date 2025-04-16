@@ -12,10 +12,10 @@
 
 ## 📈 GitHub Stats
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Minjie&theme=dark" /> </div>
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username={YOUR_USERNAME}&theme=github-compact&hide_border=true&area=true" />
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username={MinjieY}&theme=github-compact&hide_border=true&area=true" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username={YOUR_USERNAME}&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-<img src="https://komarev.com/ghpvc/?username={YOUR_USERNAME}&abbreviated=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username={MinjieY}&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<img src="https://komarev.com/ghpvc/?username={MinjieY}&abbreviated=true" />
 
 ## 🚀 Projects
 - [🔧 项目A名字](项目A链接) - 简短描述
