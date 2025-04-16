@@ -17,8 +17,6 @@
 
 ## 📈 GitHub Stats
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Minjie&theme=dark" /> </div>
-![你的GitHub数据图](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=tokyonight)
-![语言使用图](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=tokyonight)
 
 ---
 
