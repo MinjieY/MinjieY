@@ -45,7 +45,7 @@ Mainly upload some assignments, is learning to explore, if there are data mining
 -> [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:minjie.ying@outlook.com)
 
 <br>
-<span style="display:none">This is the GitHub profile of minjie ying, showcasing open source projects, contributions, and coding activity.</span>
+<span style="display:none">__This is the GitHub profile of minjie ying, showcasing open source projects, contributions, and coding activity__.</span>
 
 
 
