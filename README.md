@@ -1,6 +1,8 @@
 # 👋 Fancy seeing you here, I am Minjie Ying!
 👩 A master student now in Chongqing university .
+<br>
 🌟 Passionate about data science.
+<br>
 📍 Based in Chongqing.
 
 
