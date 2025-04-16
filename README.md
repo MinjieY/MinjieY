@@ -36,7 +36,7 @@
  
 ## 📫 Reach me:
 <p>
-Mainly upload some assignments, is learning to explore, if there are data mining, search advertising recommendation algorithm type learning exchange, welcome to learn together!
+Mostly upload assignments and love exploring new topics. If you're interested in data mining or search advertising algorithms, I'd love to collaborate and learn together！
 </p>
 
  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:minjie.ying@outlook.com)
