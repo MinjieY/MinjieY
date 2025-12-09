@@ -1,6 +1,6 @@
 # 👋 Fancy seeing you here!
 <br>
-🌟 about data science.
+🌟 about DA/DS.
 <br>
 📍 Based in Chongqing.
 
