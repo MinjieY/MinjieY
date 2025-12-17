@@ -1,6 +1,6 @@
 # 👋 Fancy seeing you here!
 <br>
-🌟 about DA/DS.
+📧 Aria_DS@outlook.com
 <br>
 📍 Based in Chongqing.
 
