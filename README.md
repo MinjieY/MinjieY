@@ -1,8 +1,7 @@
 # 👋 Fancy seeing you here!
 <br>
-📧 Aria_DS@outlook.com
+📧 minjie.ying@outlook.com
 <br>
-📍 Based in Chongqing.
 
 ## 📈 GitHub Stats
 <p align="center">
