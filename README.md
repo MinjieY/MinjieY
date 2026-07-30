@@ -1,6 +1,6 @@
 # 👋 Fancy seeing you here!
 <br>
- minjie.ying@outlook.com
+ 📩minjie.ying@outlook.com
 <br>
 
 ## 📈 GitHub Stats
