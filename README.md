@@ -1,6 +1,6 @@
 # 👋 Fancy seeing you here!
 <br>
-📧 minjie.ying@outlook.com
+ [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:minjie.ying@outlook.com) minjie.ying@outlook.com
 <br>
 
 ## 📈 GitHub Stats
@@ -37,7 +37,7 @@
 Mostly upload assignments and love exploring new topics. If you're interested in data mining or search advertising algorithms, I'd love to collaborate and learn together！
 </p>
 
- [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:minjie.ying@outlook.com)
+
 
 <br>
 <span style="display:none">__This is the GitHub profile of minjie ying, showcasing open source projects, contributions, and coding activity__.</span>
