@@ -1,7 +1,6 @@
 # 👋 Fancy seeing you here!
 <br>
  minjie.ying@outlook.com
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:minjie.ying@outlook.com)
 <br>
 
 ## 📈 GitHub Stats
