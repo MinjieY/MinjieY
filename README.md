@@ -1,9 +1,9 @@
 # 👋 Fancy seeing you here!
+
+🔗https://minjie.tech/
 <br>
  📩minjie.ying@outlook.com
 <br>
-🔗https://minjie.tech/
-
 ## 📈 GitHub Stats
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
