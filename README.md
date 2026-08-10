@@ -2,7 +2,7 @@
 <br>
  📩minjie.ying@outlook.com
 <br>
-https://minjie.tech/
+🔗https://minjie.tech/
 
 ## 📈 GitHub Stats
 <p align="center">
