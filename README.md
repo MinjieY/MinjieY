@@ -1,12 +1,8 @@
 # 👋 Fancy seeing you here!
 
-Blog
-
-🔗https://minjie.tech/
+Blog  🔗https://minjie.tech/
 <br>
- Email
- 
- 📩minjie.ying@outlook.com
+Email 📩minjie.ying@outlook.com
 <br>
 ## 📈 GitHub Stats
 <p align="center">
