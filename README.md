@@ -1,10 +1,10 @@
 # 👋 Fancy seeing you here!
 
 Blog  🔗https://minjie.tech/
-
 <br>
 Email 📩minjie.ying@outlook.com
 <br>
+
 ## 📈 GitHub Stats
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
