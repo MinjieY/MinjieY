@@ -1,6 +1,7 @@
 # 👋 Fancy seeing you here!
 
 Blog  🔗https://minjie.tech/
+
 <br>
 Email 📩minjie.ying@outlook.com
 <br>
