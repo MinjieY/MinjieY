@@ -20,7 +20,7 @@ Email 📩minjie.ying@outlook.com
 <img width="800" src="[https://github-readme-activity-graph.vercel.app/graph?username=MinjieY&theme=github-compact&hide_border=true&area=true](https://github-readme-activity-graph.vercel.app/graph?username=minjieY&theme=github)">
 <br/>
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MinjieY&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MinjieY&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## 🛠️ Tech Stack
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=py,sklearn,java,cpp,c,git,r,linux,md,matlab,html,css&theme=light" />
