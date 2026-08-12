@@ -7,11 +7,11 @@ Email 📩minjie.ying@outlook.com
 
 ## 📈 GitHub Stats
 <p align="center">
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinjieY&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<!-- 使用 Action 本地生成的 SVG，仓库内路径，GitHub CDN 托管 -->
+<img align="center" src="./generated/top-langs.svg" />
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="460" src="https://github-readme-stats.vercel.app/api?username=MinjieY&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+<img align="center" width="460" src="./generated/github-stats.svg" />
+</p>
 
  <br/>
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
