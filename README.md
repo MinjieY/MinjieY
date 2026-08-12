@@ -22,14 +22,11 @@ Email 📩minjie.ying@outlook.com
  
 <!-- https://github.com/badges/shields -->
 <img src="https://komarev.com/ghpvc/?username=MinjieY&abbreviated=true" />
-
 <!--
 ## 🚀 Projects
 - [🔧 项目A名字](项目A链接) - 简短描述
 - [📊 项目B名字](项目B链接) - 简短描述
 -->
-
- 
 ## 📫 Reach me:
 <p>
 Mostly upload assignments and love exploring new topics. If you're interested in data mining or search advertising algorithms, I'd love to collaborate and learn together！
