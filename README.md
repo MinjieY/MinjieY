@@ -7,10 +7,9 @@ Email 📩minjie.ying@outlook.com
 
 ## 📈 GitHub Stats
 <p align="center">
-<!-- 使用 Action 本地生成的 SVG，仓库内路径，GitHub CDN 托管 -->
-<img align="center" src="./generated/top-langs.svg" />
+<img align="center" src="https://github-readme-stats.kyoko.cc/api/top-langs/?username=MinjieY&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 
-<img align="center" width="460" src="./generated/github-stats.svg" />
+<img align="center" width="460" src="https://github-readme-stats.kyoko.cc/api?username=MinjieY&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 </p>
 
  <br/>
