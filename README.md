@@ -6,8 +6,8 @@ Email 📩minjie.ying@outlook.com
 <br>
 
 ## 📈 GitHub Stats
-<p align="center">
-<img align="center" src="https://github-readme-stats.kyoko.cc/api/top-langs/?username=MinjieY&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+</p>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjieY&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
 <img align="center" width="460" src="https://github-readme-stats.kyoko.cc/api?username=MinjieY&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 </p>
@@ -21,6 +21,8 @@ Email 📩minjie.ying@outlook.com
 ## 🛠️ Tech Stack
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=py,sklearn,java,cpp,c,git,r,linux,md,matlab,html,css&theme=light" />
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=minjieY&theme=xcode)
+
 </p>
  
 <!-- https://github.com/badges/shields -->
