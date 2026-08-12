@@ -17,7 +17,7 @@ Email 📩minjie.ying@outlook.com
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=MinjieY&theme=github-compact&hide_border=true&area=true">
 <br/>
-<img width="800" src="[https://github-readme-activity-graph.vercel.app/graph?username=MinjieY&theme=github-compact&hide_border=true&area=true](https://github-readme-activity-graph.vercel.app/graph?username=minjieY&theme=xcode)">
+<img width="800" src="[https://github-readme-activity-graph.vercel.app/graph?username=MinjieY&theme=github-compact&hide_border=true&area=true](https://github-readme-activity-graph.vercel.app/graph?username=minjieY&theme=github)">
 <br/>
 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MinjieY&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
