@@ -7,11 +7,7 @@ Email 📩minjie.ying@outlook.com
 
 ## 📈 GitHub Stats
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinjieY)
 
-![Top Langs Compact](https://github-readme-stats.vercel.app/api/top-langs/?username=MinjieY&layout=compact)
-
-![Top Langs Donut](https://github-readme-stats.vercel.app/api/top-langs/?username=MinjieY&layout=donut)
 
  <br/>
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
